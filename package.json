@@ -68,7 +68,7 @@
     "strip-ansi": "^5.2.0",
     "yaspeller": "^7.0.0"
   },
-  "main": "lib/postcss",
+  "main": "lib/postcss.js",
   "types": "lib/postcss.d.ts",
   "lint-staged": {
     "test/*.js": "eslint",
